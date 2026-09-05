@@ -16,12 +16,15 @@ python3 --connect 127.0.0.1 8080
 ## Test case:
 
 **server-side**
+
 ```bash
 python3 --listen 80
 ```
 **client-side**
+
 ```bash
 python3 --connect 127.0.0.1 80
 whoami
 ls -l
+pwd
 ```
