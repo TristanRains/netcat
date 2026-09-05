@@ -24,7 +24,9 @@ python3 --listen 80
 
 ```bash
 python3 --connect 127.0.0.1 80
+```bash
 whoami
+```
 ls -l
 pwd
 ```
